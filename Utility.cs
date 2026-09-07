@@ -10,4 +10,15 @@ public static class Utility {
         return "";
     }
 
+    public static bool ValidateInput(string input){
+        if (string.IsNullOrWhiteSpace(input) || !int.TryParse(input, out int score)){
+            return false;
+        }
+
+        if (score < 0)
+            return false;
+
+        return true;
+    }
+
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("netgame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f039b532445f010f4a837c2039175267da01568")]
 [assembly: System.Reflection.AssemblyProductAttribute("netgame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("netgame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

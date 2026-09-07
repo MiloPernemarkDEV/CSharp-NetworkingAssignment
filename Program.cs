@@ -52,10 +52,22 @@ static void PrintMenu()
 
 void HandlePost(){
     Console.WriteLine("Please enter your name: ");
-    playerScore.Name = Console.ReadLine();
+    string name = Utility.GetInput();
+    if (!Utility.ValidateInput(name))
+    {
+        Console.WriteLine("Error, Invalid input!");
+        return;
+    }
 
     Console.WriteLine("Please enter your score: ");
-    string? score = Console.ReadLine();
+    string? score = Utility.GetInput();
+    if (!Utility.ValidateInput(score))
+    {
+        Console.WriteLine("Error, invalid input!");
+        return;
+    }
+
+    playerScore.Name = name;
     playerScore.Score = Int32.Parse(score);
 
     NetworkManager.Instance.PostScore(playerScore);

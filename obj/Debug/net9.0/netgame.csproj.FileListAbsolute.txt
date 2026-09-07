@@ -12,3 +12,4 @@ C:\dev\netgame\obj\Debug\net9.0\refint\netgame.dll
 C:\dev\netgame\obj\Debug\net9.0\netgame.pdb
 C:\dev\netgame\obj\Debug\net9.0\netgame.genruntimeconfig.cache
 C:\dev\netgame\obj\Debug\net9.0\ref\netgame.dll
+C:\dev\netgame\obj\Debug\net9.0\netgame.sourcelink.json
