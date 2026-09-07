@@ -1,0 +1,14 @@
+C:\dev\netgame\bin\Debug\net9.0\netgame.exe
+C:\dev\netgame\bin\Debug\net9.0\netgame.deps.json
+C:\dev\netgame\bin\Debug\net9.0\netgame.runtimeconfig.json
+C:\dev\netgame\bin\Debug\net9.0\netgame.dll
+C:\dev\netgame\bin\Debug\net9.0\netgame.pdb
+C:\dev\netgame\obj\Debug\net9.0\netgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\netgame\obj\Debug\net9.0\netgame.AssemblyInfoInputs.cache
+C:\dev\netgame\obj\Debug\net9.0\netgame.AssemblyInfo.cs
+C:\dev\netgame\obj\Debug\net9.0\netgame.csproj.CoreCompileInputs.cache
+C:\dev\netgame\obj\Debug\net9.0\netgame.dll
+C:\dev\netgame\obj\Debug\net9.0\refint\netgame.dll
+C:\dev\netgame\obj\Debug\net9.0\netgame.pdb
+C:\dev\netgame\obj\Debug\net9.0\netgame.genruntimeconfig.cache
+C:\dev\netgame\obj\Debug\net9.0\ref\netgame.dll
